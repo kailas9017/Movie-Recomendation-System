@@ -1,0 +1,9 @@
+Django>=6.0
+pandas
+numpy
+scipy
+scikit-learn
+
+# Optional collaborative filtering libraries:
+# scikit-surprise
+# implicit
